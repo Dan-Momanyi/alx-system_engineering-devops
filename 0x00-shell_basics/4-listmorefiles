@@ -1,1 +1,2 @@
+#!/bin/bash
 show all files plus hidde: ls -a
