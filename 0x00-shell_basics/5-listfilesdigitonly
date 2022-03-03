@@ -1,2 +1,2 @@
-#!/bin/bas
-current direictory content: ls -l
+#!/bin/bash
+ls -l
