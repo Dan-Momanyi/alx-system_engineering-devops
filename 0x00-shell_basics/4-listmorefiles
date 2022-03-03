@@ -1,2 +1,1 @@
-#!/bin/bash
-show all files plus hidde: ls -a
+0-current_working_directory  12-file_type  1-listit          4-listmorefiles  6-firstdirectory      9-firstdirdeletion
