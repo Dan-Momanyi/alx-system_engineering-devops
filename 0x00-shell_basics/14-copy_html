@@ -1,1 +1,1 @@
-copy only html files: cp -rua *.html ../
+copy html that are not in another dir: cp -rua *.html ../
