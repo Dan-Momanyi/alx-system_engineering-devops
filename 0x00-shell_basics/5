@@ -1,0 +1,31 @@
+total 60                                                                                                                                             
+
+-rw-r--r-- 1 root root  51 Mar  3 11:32 0-current_working_directory                                                                                  
+
+-rw-r--r-- 1 root root  32 Mar  3 11:29 10-back                                                                                                      
+
+-rw-r--r-- 1 root root  25 Mar  3 11:29 11-lists                                                                                                     
+
+-rw-r--r-- 1 root root  37 Mar  3 11:29 12-file_type                                                                                                 
+
+-rw-r--r-- 1 root root  59 Mar  3 11:29 13-symbolic_link                                                                                             
+
+-rw-r--r-- 1 root root  70 Mar  3 12:07 14-copy_html                                                                                                 
+
+-rw-r--r-- 1 root root  28 Mar  3 12:03 1-listit                                                                                                     
+
+-rw-r--r-- 1 root root  15 Mar  3 11:46 2-bring_me_home                                                                                              
+
+-rw-r--r-- 1 root root  19 Mar  3 11:29 3-listfiles                                                                                                  
+
+-rw-r--r-- 1 root root 119 Mar  3 12:26 4-listmorefiles                                                                                              
+
+-rw-r--r-- 1 root root  18 Mar  3 12:34 5-listfilesdigitonly                                                                                         
+
+-rw-r--r-- 1 root root  47 Mar  3 11:29 6-firstdirectory                                                                                             
+
+-rw-r--r-- 1 root root  44 Mar  3 11:29 7-movethatfile                                                                                               
+
+-rw-r--r-- 1 root root  28 Mar  3 11:29 8-firstdelete                                                                                                
+
+-rw-r--r-- 1 root root  48 Mar  3 11:29 9-firstdirdeletion
