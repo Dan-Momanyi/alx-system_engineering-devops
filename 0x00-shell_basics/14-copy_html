@@ -1,2 +1,2 @@
 #!/bin/bash
-copy html that are not in another dir: cp -rua *.html ../
+cp -nu *.html ..

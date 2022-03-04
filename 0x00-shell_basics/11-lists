@@ -1,1 +1,2 @@
-list all files: ls -a -l
+#!/bin/bash
+ls -al . .. /boot

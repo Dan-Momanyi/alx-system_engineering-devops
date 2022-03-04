@@ -1,1 +1,2 @@
-create symbolic link to current dir: ln -s ls /bin/ls/_ls_
+#!/bin/bash
+ln -s /bin/ls _ls_
