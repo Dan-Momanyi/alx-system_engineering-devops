@@ -1,1 +1,2 @@
-long format: ls -l
+#!/bin/bash
+ls -l
